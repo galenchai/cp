@@ -1,0 +1,2 @@
+13th/Jan/2015
+Canvas context can be 2d or webgl(3d)
